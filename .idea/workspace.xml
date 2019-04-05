@@ -85,7 +85,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554451587294" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554451631300" />
     <property name="jsx.switch.disabled" value="true" />
   </component>
   <component name="RecentsManager">
@@ -134,7 +134,7 @@
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/titanite-homepage/titanite-startbootstrap/public/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.phtml" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/titanite-homepage/titanite-startbootstrap/public/index.phtml" useBuiltInWebServerPort="true">
+    <configuration name="index.phtml" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/titanite-homepage/titanite-startbootstrap/index.phtml" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.php" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/index.php" working-dir="$PROJECT_DIR$">
