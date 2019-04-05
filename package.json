@@ -1,0 +1,14 @@
+{
+  "name": "titanite-homepage",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/spik3r/titanite-homepage.git",
+  "author": "Kai <kaiftait@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "scripts": {
+    "dev": "node server.js"
+  }
+}
