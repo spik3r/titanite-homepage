@@ -685,6 +685,11 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
   background-color: #fed136;
 }
 
-.tradingList {
+.leftList {
   text-align: left;
+}
+
+.listLink {
+  color: dodgerblue;
+  text-decoration: underline;
 }
